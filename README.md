@@ -18,3 +18,10 @@ This is server side of NEAP app, its a RESTful API, serves up JSON.
 1. Setup knex queries
 1. setup env variables
 1. add control (optional)
+
+## Deployment
+
+1. setup heroku
+1. push to heroku
+1. setup db ()
+1.
